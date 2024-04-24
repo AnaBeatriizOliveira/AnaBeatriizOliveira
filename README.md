@@ -1,13 +1,9 @@
 ### Hi! I am Beatriz Oliveira
 🪴 I'm currently learning cybersecurity
-<div>
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <a href="https://github.com/AnaBeatriizOliveira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaBeatriizOliveira&show_icons=true&theme=cobalt"/>
-  </a>
-  <a href="https://github.com/AnaBeatriizOliveira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatriizOliveira&layout=compact&langs_count=7&theme=cobalt"/>
-  </a>
+</div>
+<div align="left">
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=AnaBeatriizOliveira&show_icons=true&theme=cobalt"/>
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatriizOliveira&layout=compact&langs_count=7&theme=cobalt">
 </div>   
 
 <div style="display: inline_block"><br>
